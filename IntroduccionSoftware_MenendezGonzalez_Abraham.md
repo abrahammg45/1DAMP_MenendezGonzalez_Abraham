@@ -9,7 +9,7 @@
 - Un **programa informático** es un conjunto de instrucciones escritas en un lenguaje de programación que indican a un ordenador qué tareas debe realizar.
 
 
-###DIFERENCIA ENTRE CÓDIGO FUENTE, CÓDIGO OBJETO Y CODIGO EJECUTABLE.
+### DIFERENCIA ENTRE CÓDIGO FUENTE, CÓDIGO OBJETO Y CODIGO EJECUTABLE.
 
 * **Código fuente:** es el código escrito por el programador utilizando un lenguaje de programación como C# o Java.
 
